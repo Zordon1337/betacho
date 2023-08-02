@@ -50,3 +50,19 @@ Client: 🟧
 frontend css: 🟧
 
 ```
+
+## screenshots: 
+Home: 
+![Alt text](home.png)
+Leaderboard
+![Alt text](leaderboard.png)
+Client download
+![Alt text](download.png)
+Register
+![Alt text](register.png)
+api/stats
+![Alt text](stats.png)
+Client login Error
+![Alt text](loginerror.png)
+Client logged in
+![Alt text](loggedin.png)
