@@ -1,0 +1,27 @@
+body {
+    background-color: #2c5d63;
+}
+
+.topnav {
+    background-color: #a2c11c;
+    text-align: left;
+    width: 100%;
+    display:inline-block;
+    height:auto;
+    
+
+}
+
+.topnavtext {
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    text-decoration-skip: none;
+}
+
+.container {
+    text-align: center;
+    height:96.8vh;
+    background-color: #283739;
+    color:white;
+}
