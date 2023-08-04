@@ -49,6 +49,8 @@ home frontend - 🟩
 Client: 🟧
 frontend css: 🟧
 
+server switcher: 🟩
+
 ```
 
 ## screenshots: 
